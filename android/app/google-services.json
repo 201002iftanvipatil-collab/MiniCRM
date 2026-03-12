@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812102753049",
+    "project_id": "minicrm-91aa3",
+    "storage_bucket": "minicrm-91aa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812102753049:android:9be1c531bbab2e25650388",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crm_viewer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWdjaG9CJvRH-ZhyFWq6-dPPQYL5CdgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812102753049:android:d290c28c1fa57e32650388",
+        "android_client_info": {
+          "package_name": "com.tanvi.minicrm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWdjaG9CJvRH-ZhyFWq6-dPPQYL5CdgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
